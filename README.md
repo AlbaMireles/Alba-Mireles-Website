@@ -1,6 +1,4 @@
-Alba Mireles Main Website
 
-![Website Preview](img/websitepreview.png)
-# AlbaMireles-Website
-# AlbaMireles-Website
-# AlbaMireles-Website
+# AlbaMireles.html
+![My Website!](img/websitepreview.png)
+# AlbaMireles-Resume
